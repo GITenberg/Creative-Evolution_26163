@@ -1,0 +1,41 @@
+_repo: Creative-Evolution_26163
+_version: 0.1.0
+alternative_title: Evolution créatrice. English
+contributor:
+  translator:
+    agent_name: Mitchell, Arthur
+    birthdate: 1872
+    deathdate: 1953
+    gutenberg_agent_id: '31838'
+    url: http://www.gutenberg.org/2009/agents/31838
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bergson, Henri
+    aliases:
+    - Bergson, H. (Henri)
+    - Bergson, Henri Louis
+    birthdate: 1859
+    deathdate: 1941
+    gutenberg_agent_id: '1462'
+    url: http://www.gutenberg.org/2009/agents/1462
+    wikipedia: http://en.wikipedia.org/wiki/Henri_Bergson
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2008-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26163'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Evolution'
+- !lcc 'B'
+- !lcsh 'Metaphysics'
+- !lcsh 'Life'
+title: Creative Evolution
+url: http://www.gutenberg.org/ebooks/26163
