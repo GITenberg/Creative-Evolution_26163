@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1462
     wikipedia: http://en.wikipedia.org/wiki/Henri_Bergson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26163#Creative-Evolution
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2008-08-01'
 gutenberg_type: Text
